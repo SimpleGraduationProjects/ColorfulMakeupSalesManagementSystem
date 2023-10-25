@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/vue-5.x-yellow.svg"/>
 </p>
 
+演示视频: [https://www.bilibili.com/video/BV1BH4y19792/](https://www.bilibili.com/video/BV1BH4y19792/)
+
 ## 简介
 
 > 本代码来源于网络,仅供学习参考使用,请入群(123300273)后联系群主索要sql文件!
